@@ -50,9 +50,3 @@ It allows users to control a character or sphere in a 3D environment, interact w
 ## 🔗 **Live Demo**
 
 Experience the current version here: [https://3-d-angular.vercel.app/](https://3-d-angular.vercel.app/)
-
----
-
-If you want, I can also **make a uniform, professional template** for all your Angular/web projects so that each README has the same structure, tech stack, features, and live demo sections. This will make your GitHub portfolio look very polished.
-
-Do you want me to do that?
