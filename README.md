@@ -1,27 +1,58 @@
-# 3dAngular
+# **3dAngular – 3D Web Game / Interactive Demo**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.10.
 
-## Development server
+**3dAngular** is an **Angular-based 3D web application** built using **Three.js**.
+It allows users to control a character or sphere in a 3D environment, interact with objects, and experience multiple camera perspectives. The project is **under development**.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## 🌟 **Current Features**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Control a **main character or sphere** in a 3D environment
+* **Jump functionality** for the main character
+* Multiple perspectives:
 
-## Build
+  * Third-person view
+  * Top-down view
+* Collect objects within the scene
+* Basic **maze-like navigation and smoke effects**
+* Works fully in the browser with interactive controls
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🛠️ **Tech Stack**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* **Angular** (Frontend Framework)
+* **Three.js** (3D rendering & interactions)
+* **TypeScript / HTML / SCSS**
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 💡 **Purpose**
 
-## Further help
+* Demonstrate **3D interaction and character control** in a web application
+* Showcase integration of **Angular + Three.js** for game-like experiences
+* Serve as a foundation for a more complete **maze or action-oriented game**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+## 🔮 **Future Scope**
+
+* Full maze levels with obstacles and rewards
+* Advanced physics and collision detection
+* Enhanced character animations
+* Additional interactive objects and challenges
+* Potential multiplayer or networked features
+
+---
+
+## 🔗 **Live Demo**
+
+Experience the current version here: [https://3-d-angular.vercel.app/](https://3-d-angular.vercel.app/)
+
+---
+
+If you want, I can also **make a uniform, professional template** for all your Angular/web projects so that each README has the same structure, tech stack, features, and live demo sections. This will make your GitHub portfolio look very polished.
+
+Do you want me to do that?
